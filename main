@@ -1,0 +1,4 @@
+alphabet = ['c', 'a', 'b', 'e', 'd', 'g', 'f']
+sorted_alphabet = sorted(alphabet)
+print(sorted_alphabet)
+# Output: ['a', 'b', 'c', 'd', 'e', 'f', 'g']
